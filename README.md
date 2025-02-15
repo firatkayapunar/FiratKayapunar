@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Firat Kayapunar</title>
-</head>
-<body>
     <h1>💻 Firat Kayapunar</h1>
     
     <h2>🚀 Hakkımda</h2>
@@ -79,5 +71,3 @@
     <p>✍ <strong>Medium:</strong> <a href="https://medium.com/@firatkayapunar">medium.com/@firatkayapunar</a></p>
     
     <p>👨‍💻 Kod yazmak ve yeni teknolojileri keşfetmek benim için bir tutku! Yeni projelerde iş birliği yapmaktan mutluluk duyarım. İletişime geçmekten çekinmeyin! 🚀</p>
-</body>
-</html>
