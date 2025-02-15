@@ -1,73 +1,90 @@
-    <h1>💻 Firat Kayapunar</h1>
-    
-    <h2>🚀 Hakkımda</h2>
-    <p>Merhaba! Ben <strong>Firat Kayapunar</strong>. 2 yıldır sektörde deneyim kazanmış bir yazılım geliştiricisiyim. 2020 yılında <strong>Bursa Uludağ Üniversitesi Bilgisayar Programcılığı</strong> bölümünden mezun oldum ve şu anda <strong>Anadolu Üniversitesi Yönetim Bilişim Sistemleri</strong> lisans programına devam ediyorum. 2025 yılı Mayıs ayında mezun olacağım. Teknik altyapımı güçlü projelerle şekillendirerek yazılım geliştirme alanında kendimi geliştirmeye devam ediyorum.</p>
-    
-    <p>🛠️ Karmaşık problemleri analiz ederek pratik ve yenilikçi çözümler üretmeye odaklanıyorum. Zaman yönetimi, kriz çözümü ve stratejik düşünme becerilerim sayesinde projelerde etkin bir rol oynuyorum.</p>
-    
-    <p>📍 İstanbul, Türkiye</p>
-    
-    <hr>
-    
-    <h2>🔧 Teknolojiler ve Beceriler</h2>
-    <ul>
-        <li><strong>Frontend:</strong> HTML5, CSS3, Bootstrap, JavaScript, React, jQuery</li>
-        <li><strong>Backend:</strong> C#, ASP.NET Core MVC & API, Razor Pages</li>
-        <li><strong>Veritabanı Yönetimi:</strong> Microsoft SQL Server, ORM (Entity Framework & EF Core & Dapper)</li>
-        <li><strong>Yazılım Prensipleri:</strong> OOP, Yazılım Mimarileri & Desenleri</li>
-        <li><strong>Diğer Araçlar:</strong> Git, GitLab, Jira, SSIS, SSDT</li>
-    </ul>
-    
-    <hr>
-    
-    <h2>💼 İş Deneyimi</h2>
-    
-    <h3>🔹 Freelance Software Developer <em>(Tem 2024 - Ara 2024)</em></h3>
-    <ul>
-        <li>CRM projesinde veri tabanı yönetimi, kullanıcı rolleri ve yetkilendirme modülleri geliştirdim.</li>
-        <li>Rent a Car sistemi için rezervasyon yönetimi ve raporlama modülleri üzerinde çalıştım.</li>
-    </ul>
-    
-    <h3>🔹 Full Stack Developer @ Üçyol <em>(Eki 2023 - Haz 2024)</em></h3>
-    <ul>
-        <li>ERP projesinde çeşitli modüllerin tasarım ve geliştirilmesine katkı sağladım.</li>
-        <li>Mail tabanlı sipariş otomasyonu geliştirdim.</li>
-        <li>Veri tabanı yönetimi ve SSIS projeleri üzerinde çalıştım.</li>
-    </ul>
-    
-    <h3>🔹 Junior Software Developer @ NAZALI Tax & Legal Services <em>(May 2022 - Haz 2023)</em></h3>
-    <ul>
-        <li>Nazalı Doküman Sistemi ve CBCR Sistemi projelerini geliştirdim.</li>
-        <li>Otomatik doğum günü mesajları gönderen bir sistem tasarladım.</li>
-        <li>Şirket çalışanlarına SQL eğitimi verdim.</li>
-    </ul>
-    
-    <h3>🔹 Teknik Destek Uzmanı @ Ithinka <em>(Ağu 2020 - Şub 2021)</em></h3>
-    <ul>
-        <li>Çeşitli firmaların sistemlerine teknik destek verdim ve günlük raporlamalar yaptım.</li>
-    </ul>
-    
-    <hr>
-    
-    <h2>📜 Eğitim</h2>
-    <ul>
-        <li>🎓 <strong>Anadolu Üniversitesi - Yönetim Bilişim Sistemleri</strong> <em>(Eki 2022 - May 2025)</em></li>
-        <li>🎓 <strong>Bahçeşehir Wissen Teknoloji - Nitelikli Bilişim Uzmanı Yetiştirme Programı</strong> <em>(Kas 2021 - Nis 2022)</em></li>
-        <li>🎓 <strong>Bursa Uludağ Üniversitesi - Bilgisayar Programcılığı</strong> <em>(Eki 2018 - Haz 2020)</em></li>
-    </ul>
-    
-    <hr>
-    
-    <h2>🏆 Başarılar & Sertifikalar</h2>
-    <ul>
-        <li>📜 <strong>Nitelikli Bilişim Uzmanı Yetiştirme Programı</strong> mezuniyeti (Üstün Başarı Sertifikası)</li>
-    </ul>
-    
-    <hr>
-    
-    <h2>📩 Bana Ulaşın</h2>
-    <p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/firatkayapunar">linkedin.com/in/firatkayapunar</a></p>
-    <p>🌐 <strong>GitHub:</strong> <a href="https://github.com/firatkayapunar">github.com/firatkayapunar</a></p>
-    <p>✍ <strong>Medium:</strong> <a href="https://medium.com/@firatkayapunar">medium.com/@firatkayapunar</a></p>
-    
-    <p>👨‍💻 Kod yazmak ve yeni teknolojileri keşfetmek benim için bir tutku! Yeni projelerde iş birliği yapmaktan mutluluk duyarım. İletişime geçmekten çekinmeyin! 🚀</p>
+# <h1 align="center">FIRAT KAYAPUNAR</h1>
+
+## 🚀 Hakkımda (📍 İstanbul, Türkiye)
+
+2 yıldır sektörde yer alan bir yazılım geliştiricisiyim. 2020 yılında **Bursa Uludağ Üniversitesi Bilgisayar
+Programcılığı** bölümünden mezun olduktan sonra teknik altyapımı güçlü projelerle şekillendirme
+fırsatı buldum. **8000 aday** arasından seçilerek dahil olduğum **Bahçeşehir Wissen Teknoloji** ve
+**Çalışma Bakanlığı**’nın ortak yürüttüğü **Nitelikli Bilişim Uzmanı Yetiştirme Programı**’nı Mayıs 2022’de
+**üstün** başarıyla tamamladım. Şu anda **Anadolu Üniversitesi Yönetim Bilişim Sistemleri Lisans**
+programında öğrenimime devam etmekte ve 2025 Mayıs’ta mezun olmayı hedeflemekteyim. <br>
+🛠️ Yazılım geliştirme süreçlerinde sadece teknik beceriler değil, stratejik düşünme ve problem çözme
+becerilerinin de kritik olduğuna inanıyorum. Karmaşık sorunları analiz ederek pratik ve yenilikçi
+çözümler üretme konusundaki yetkinliğimle projelerde etkin bir rol oynuyorum. Zaman yönetimi ve
+kriz çözümü gibi alanlarda geliştirdiğim beceriler sayesinde hem ekip içi uyumu sağlıyor hem de
+paydaşlara net çözümler sunuyorum.
+
+---
+
+## 🔧 Teknolojiler ve Beceriler
+
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, React, jQuery
+- **Backend:** C#, ASP.NET Core MVC & API, Razor Pages
+- **Veritabanı Yönetimi:** Microsoft SQL Server, ORM (Entity Framework & EF Core & Dapper)
+- **Yazılım Prensipleri:** OOP, Yazılım Mimarileri & Desenleri
+- **Diğer Araçlar:** Git, GitLab, Jira, SSIS, SSDT
+
+---
+
+## 💼 İş Deneyimi
+
+### 🔹 Freelance Software Developer *(Tem 2024 - Ara 2024)*
+İki yeni girişim projesinde görev aldım. Biri CRM, diğeri ise Rent a Car sistemi üzerine odaklanmış
+projelerdi. Bu projeler, sektörün ihtiyaçlarını anlamamı ve modern web ile yazılım geliştirme
+teknolojilerini uygulamamı sağlayarak değerli bir deneyim sundu. <br>
+• CRM Projesi: Müşteri ilişkileri yönetimi ve satış süreçlerini optimize etmeyi amaçlayan bir sistemin
+geliştirilmesinde aktif rol aldım. Bu projede veri tabanı yönetimi, kullanıcı rolleri ve yetkilendirme
+modüllerinin tasarım ve geliştirme süreçlerini üstlendim. <br>
+• Rent a Car Projesi: Araç kiralama süreçlerini dijitalleştiren, kullanıcı odaklı bir platformun
+oluşturulmasında görev aldım. Araç takibi, rezervasyon yönetimi ve raporlama gibi temel modüller
+üzerinde çalıştım. Bu süreçte kullanıcı deneyimine odaklanan çözümler geliştirdim.
+
+### 🔹 Full Stack Developer @ Üçyol *(Eki 2023 - Haz 2024)*
+• Şirketin ERP projesinde çeşitli modüllerin tasarım ve geliştirilmesinde aktif rol aldım. <br>
+• Mağaza irsaliye kayıtları üzerinden çeşitli işlemlerin ve kontrollerin yapılmasını sağlayan bir proje
+geliştirdim. <br>
+• Tarafımıza mail üzerinden gelen metin dosyalarındaki sipariş taleplerini işlemek üzere bir
+otomasyon sistemi geliştirdim. Bu sistem, yüklenen metin dosyalarını otomatik olarak okuyarak,
+verileri tablo halinde sunar ve stok kontrollerini gerçekleştirir. Kullanıcı dostu bir arayüz üzerinden
+siparişlerin onaylanmasını sağlar, böylece manuel işlemleri minimize eder. <br>
+• Kullanılan uygulamanın veri tabanı ve raporlama veri tabanını birbirinden ayırarak SSIS projesini
+tasarladım ve geliştirdim. Bu konuda yazdığım makaleyi Medium adresimden bulabilirsiniz. (ETL &
+SSIS & SSDT)
+
+### 🔹 Junior Software Developer @ NAZALI Tax & Legal Services *(May 2022 - Haz 2023)*
+• Nazalı Doküman Sistemi isimli projeyi tasarlayıp geliştirdim. <br>
+• CBCR Sistemi isimli projeyi geliştirdim. Proje hakkında yazılan makaleyi
+https://medium.com/@serdar1aslan adresinden okuyabilirsiniz. (Application of Software Solutions in
+Transfer Pricing Practices) <br>
+• Nazalı Vakfı'nın web sitesini geliştirdim. Çalışmamı https://nazalivakfi.com/ adresinden
+inceleyebilirsiniz. <br>
+• Otomatik olarak doğum günü mesajları gönderen bir sistem tasarladım ve hayata geçirdim. <br>
+• Şirket çalışanlarına SQL eğitimi verdim, bu sayede veri tabanı süreçlerinin daha verimli
+yönetilmesine katkı sağladım. <br>
+
+### 🔹 Teknik Destek Uzmanı @ Ithinka *(Ağu 2020 - Şub 2021)*
+- Çeşitli firmaların sistemlerine teknik destek verdim ve günlük raporlamalar yaptım.
+
+---
+
+## 📜 Eğitim
+
+🎓 **Anadolu Üniversitesi - Yönetim Bilişim Sistemleri** *(Eki 2022 - May 2025)*  
+🎓 **Bahçeşehir Wissen Teknoloji - Nitelikli Bilişim Uzmanı Yetiştirme Programı** *(Kas 2021 - Nis 2022)*  
+🎓 **Bursa Uludağ Üniversitesi - Bilgisayar Programcılığı** *(Eki 2018 - Haz 2020)*  
+
+---
+
+## 🏆 Başarılar & Sertifikalar
+
+- 📜 **Nitelikli Bilişim Uzmanı Yetiştirme Programı** mezuniyeti (Üstün Başarı Sertifikası)
+
+---
+
+## 📩 Bana Ulaşın
+
+🔗 **LinkedIn:** [linkedin.com/in/firatkayapunar](https://www.linkedin.com/in/firatkayapunar)  
+🌐 **GitHub:** [github.com/firatkayapunar](https://github.com/firatkayapunar)  
+✍ **Medium:** [medium.com/@firatkayapunar](https://medium.com/@firatkayapunar)  
+
+👨‍💻 Kod yazmak ve yeni teknolojileri keşfetmek benim için bir tutku! Yeni projelerde iş birliği yapmaktan mutluluk duyarım. İletişime geçmekten çekinmeyin! 🚀
