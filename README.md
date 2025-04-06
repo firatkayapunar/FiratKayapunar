@@ -20,7 +20,7 @@ paydaşlara net çözümler sunuyorum.
 
 - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Vue, React, jQuery
 - **Backend:** C#, ASP.NET Core MVC & API, Razor Pages, Node.js, Express.js
-- **Veritabanı Yönetimi:** Microsoft SQL Server, MongoDB, ORM (Entity Framework & EF Core & Dapper), ODM (Mongoose)
+- **Veritabanı Yönetimi:** Microsoft SQL Server, PostgreSQL, MongoDB, ORM (Entity Framework & EF Core & Dapper), ODM (Mongoose)
 - **Yazılım Prensipleri:** OOP, Yazılım Mimarileri & Desenleri
 - **Diğer Araçlar:** Git, GitLab, Jira, SSIS, SSDT
 
