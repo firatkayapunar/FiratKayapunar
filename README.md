@@ -18,11 +18,11 @@ paydaşlara net çözümler sunuyorum.
 
 ## 🔧 Teknolojiler ve Beceriler
 
+- **Backend:** C# (OOP), ASP.NET Core (MVC, API, Razor Pages), Node.js, Express.js
+- **Veritabanı ve Veri Yönetimi:** SQL (MS SQL Server, PostgreSQL), NoSQL (MongoDB), ORM (EF Core, Dapper), ODM (Mongoose), ETL (SSIS, SSDT)
 - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Vue, React, jQuery
-- **Backend:** C#, ASP.NET Core MVC & API, Razor Pages, Node.js, Express.js
-- **Veritabanı Yönetimi:** Microsoft SQL Server, PostgreSQL, MongoDB, ORM (Entity Framework & EF Core & Dapper), ODM (Mongoose)
-- **Yazılım Prensipleri:** OOP, Yazılım Mimarileri & Desenleri
-- **Diğer Araçlar:** Git, GitLab, Jira, SSIS, SSDT
+- **Yazılım Mimarisi ve Prensipleri:** Layered, Onion, Evolatrix, SOLID, Clean Code, CQRS, Repository, Mediator
+- **Diğer Araçlar:** Git, GitLab, Jira
 
 ---
 
