@@ -16,7 +16,7 @@ paydaşlara net çözümler sunuyorum.
 
 ---
 
-## 🔧 Teknolojiler ve Beceriler
+## 🔧 Beceriler
 
 - **Backend:** C# (OOP), ASP.NET Core (MVC, API, Razor Pages), Node.js, Express.js
 - **Veritabanı ve Veri Yönetimi:** SQL (MS SQL Server, PostgreSQL), NoSQL (MongoDB), ORM (EF Core, Dapper), ODM (Mongoose), ETL (SSIS, SSDT)
