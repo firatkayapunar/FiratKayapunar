@@ -14,10 +14,10 @@ ve Sosyal Güvenlik Bakanlığı iş birliğiyle yürütülen "Nitelikli Bilişi
 
 ## 🔧 Beceriler
 
-- **Backend:** C# (OOP), ASP.NET Core (MVC, API, Razor Pages), Node.js, Express.js
+- **Backend:** C#, ASP.NET Core (MVC, API, Razor Pages), Node.js, Express.js
 - **Veritabanı ve Veri Yönetimi:** SQL (MS SQL Server, PostgreSQL), NoSQL (MongoDB), ORM (EF Core, Dapper), ODM (Mongoose), ETL (SSIS, SSDT)
 - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Vue, React, jQuery
-- **Yazılım Mimarisi ve Prensipleri:** Layered, Onion, Evolatrix, SOLID, Clean Code, CQRS, Repository, Mediator
+- **Yazılım Mimarisi ve Prensipleri:** OOP, Layered, Onion, Evolatrix, SOLID, Clean Code, CQRS, Repository, Mediator
 - **Diğer Araçlar:** Git, GitLab, Jira
 
 ---
