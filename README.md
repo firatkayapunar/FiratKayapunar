@@ -2,8 +2,11 @@
 
 ## 🚀 Hakkımda (📍 İstanbul, Türkiye)
 
-Yaklaşık 3 yıldır sektörde aktif olarak görev alan bir yazılım geliştiricisiyim. 2020 yılında **Bursa Uludağ Üniversitesi Bilgisayar Programcılığı** bölümünden mezun olduktan sonra teknik bilgi ve yetkinliklerimi, çeşitli sektörlerde hayata geçirdiğim nitelikli projelerle pekiştirdim. 8000 aday arasından seçilerek katıldığım, **Bahçeşehir Üniversitesi Wissen Teknoloji** ile **Çalışma ve Sosyal Güvenlik Bakanlığı** iş birliğiyle yürütülen **“Nitelikli Bilişim Uzmanı Yetiştirme Programı”nı** Mayıs 2022’de üstün başarıyla tamamladım. **Anadolu Üniversitesi Yönetim Bilişim Sistemleri Lisans**  programındaki eğitimimi ise Mayıs 2025 itibarıyla tamamlayarak mezun oluyorum. <br>
-🛠️ Yazılım geliştirme süreçlerinde teknik yeterliliklerin yanı sıra stratejik düşünme, analitik problem çözme, etkili zaman yönetimi ve kriz durumlarında çözüm üretme gibi becerilere de önem veriyorum. Bu sayede yer aldığım tüm projelerde sürdürülebilir, yenilikçi ve verimli sonuçlar ortaya koyuyorum.
+Yaklaşık 3 yıldır yazılım geliştirme sektöründe aktif olarak görev alıyorum. 2020 yılında **Bursa Uludağ Üniversitesi Bilgisayar Programcılığı Önlisans**  programından mezun olduktan sonra, teknik bilgi ve yetkinliklerimi farklı
+sektörlerde hayata geçirdiğim nitelikli projelerle pekiştirdim. 8000 aday arasından seçilerek katıldığım, Bahçeşehir Üniversitesi **Wissen Teknoloji ile Çalışma ve Sosyal Güvenlik Bakanlığı** iş birliğiyle yürütülen **“Nitelikli Bilişim
+Uzmanı Yetiştirme Programı”nı** Mayıs 2022’de üstün başarıyla tamamladım. **Anadolu Üniversitesi Yönetim Bilişim Sistemleri Lisans** programındaki eğitimimi ise Haziran 2025 itibarıyla tamamlayarak mezun oldum.
+🛠️ Yazılım geliştirme süreçlerinde yalnızca teknik yeterliliklere değil; aynı zamanda stratejik düşünme, analitik problem çözme, etkili zaman yönetimi ve kriz anlarında çözüm üretme gibi becerilere de önem veriyorum.
+
 
 ---
 
